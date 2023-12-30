@@ -1,9 +1,11 @@
+import { Button } from "@chakra-ui/react";
+
 function App() {
   return (
     <>
-      hola
+      <Button>Hello world</Button>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
